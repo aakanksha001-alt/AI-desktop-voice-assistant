@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello SOURABH, how can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "What is ai?"
+    },
+    {
+        "role": "assistant",
+        "content": "Artificial Intelligence (AI) is the field of computer science that creates systems capable of performing tasks that normally require human intelligence, such as learning, reasoning, problem\u2011solving, perception, and language understanding. It encompasses techniques like machine learning, neural networks, natural language processing, and computer vision to enable machines to adapt, make decisions, and interact with their environment."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?"
+    }
+]
